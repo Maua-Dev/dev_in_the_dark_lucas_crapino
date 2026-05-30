@@ -13,3 +13,21 @@
   --yellow: #ffdf00;
   --blue: #002776;
 }
+
+.Vini{
+  align-items: center;
+  justify-content: center;
+    --green: #009c3b;
+  --yellow: #ffdf00;
+  --blue: #002776;
+}
+
+.protesto{
+  text-decoration: dotted;
+  text-decoration-color: red;
+}
+
+
+.img{
+  padding-top: 30px;
+}
