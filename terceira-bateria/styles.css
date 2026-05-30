@@ -12,3 +12,37 @@
   --purple: #a10aa4;
   --blue: #021f59;
 }
+
+.Guardian{
+  padding-left: 30%;
+  display: flex;
+}
+
+.rosa{
+  color: var(--purple);
+  margin-top: 30px;
+  display: flex;
+  border-radius: 20px;
+}
+
+.Vs{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.Dev{
+  padding-right: 30%;
+  display: flex;
+}
+
+.roxo{
+  color: var(--blue);
+  margin-top: 30px;
+  display: flex;
+  border-radius: 20px;
+}
+
+.Vsimg{
+  width: 40px;
+}
